@@ -122,6 +122,7 @@
             this.flowLayoutPanel1.ResumeLayout(false);
             this.panel6.ResumeLayout(false);
             this.ResumeLayout(false);
+            this.FormClosing += Form_Closing;
 
         }
 

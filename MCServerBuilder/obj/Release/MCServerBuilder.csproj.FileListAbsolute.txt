@@ -1,0 +1,14 @@
+E:\MCServerBuilder\MCServerBuilder\bin\Release\MCServerBuilder.exe.config
+E:\MCServerBuilder\MCServerBuilder\bin\Release\MCServerBuilder.exe
+E:\MCServerBuilder\MCServerBuilder\bin\Release\MCServerBuilder.pdb
+E:\MCServerBuilder\MCServerBuilder\bin\Release\Newtonsoft.Json.dll
+E:\MCServerBuilder\MCServerBuilder\bin\Release\Newtonsoft.Json.xml
+E:\MCServerBuilder\MCServerBuilder\obj\Release\MCServerBuilder.csproj.AssemblyReference.cache
+E:\MCServerBuilder\MCServerBuilder\obj\Release\MCServerBuilder.csproj.SuggestedBindingRedirects.cache
+E:\MCServerBuilder\MCServerBuilder\obj\Release\MCServerBuilder.MainForm.resources
+E:\MCServerBuilder\MCServerBuilder\obj\Release\MCServerBuilder.Properties.Resources.resources
+E:\MCServerBuilder\MCServerBuilder\obj\Release\MCServerBuilder.csproj.GenerateResource.cache
+E:\MCServerBuilder\MCServerBuilder\obj\Release\MCServerBuilder.csproj.CoreCompileInputs.cache
+E:\MCServerBuilder\MCServerBuilder\obj\Release\MCServerBuilder.csproj.CopyComplete
+E:\MCServerBuilder\MCServerBuilder\obj\Release\MCServerBuilder.exe
+E:\MCServerBuilder\MCServerBuilder\obj\Release\MCServerBuilder.pdb

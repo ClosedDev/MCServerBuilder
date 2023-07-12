@@ -1,5 +1,7 @@
 ﻿using System;
+using System.CodeDom;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -11,6 +13,9 @@ namespace MCServerBuilder
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
+
+        public static string datafolder = Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData) + "\\MCServerBuilder";
+
         [STAThread]
         static void Main()
         {
